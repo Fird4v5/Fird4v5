@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Hi%20I'm%20Firdavs&fontColor=fff&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2c003e&height=160&section=header&text=Hi%20I'm%20Firdavs&fontColor=ffffff&fontSize=40&animation=fadeIn)
+
 
 ### 👨‍💻 About Me
 I’m a **self-taught front-end developer** who loves turning ideas into smooth, modern web experiences.  
