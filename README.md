@@ -22,9 +22,6 @@ I learn fast, adapt to new tools quickly, and love making projects feel **polish
 </p>
 
 
----
-
-### 🎬 Motion & Creativity
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Coding gif" />
 </p>
