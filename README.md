@@ -11,23 +11,14 @@ I learn fast, adapt to new tools quickly, and love making projects feel **polish
 
 ### 🛠️ Tech Stack
 <p align="center">
-
-  <!-- Core Web -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-
-  <!-- 3D / Motion -->
   <img src="https://skillicons.dev/icons?i=threejs" /> 
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,graphql" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
   <img src="https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Three%20Fiber-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-
-  <!-- Backend / Infra -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,graphql" />
   <img src="https://img.shields.io/badge/Fly.io-8A2BE2?style=for-the-badge&logo=flydotio&logoColor=white" />
   <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
-
 </p>
 
 
