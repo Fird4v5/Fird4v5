@@ -29,4 +29,4 @@ I learn fast, adapt to new tools quickly, and love making projects feel **polish
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000000,100:24243e&height=100&section=footer)
