@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3a0ca3,100:4361ee&height=160&section=header&text=Hi%20I'm%20Firdavs&fontColor=ffffff&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=160&section=header&text=Hi%20I'm%20Firdavs&fontColor=ffffff&fontSize=40&animation=fadeIn)
 
 
 ### 👨‍💻 About Me
